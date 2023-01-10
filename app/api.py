@@ -12,7 +12,7 @@ origins = [
     "http://localhost:3000",
     "localhost:3000",
     "https://dheeraj07.netlify.app/contact",
-    "dheeraj07.netlify.app/contact
+    "dheeraj07.netlify.app/contact"
 ]
 
 
