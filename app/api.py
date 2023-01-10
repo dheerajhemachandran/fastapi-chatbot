@@ -11,8 +11,8 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "localhost:3000",
-    "https://r-generator.netlify.app",
-    "r-generator.netlify.app"
+    "https://dheeraj07.netlify.app/contact",
+    "dheeraj07.netlify.app/contact
 ]
 
 
